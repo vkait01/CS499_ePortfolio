@@ -1,7 +1,7 @@
 # Kaitlynn Vogel's CS 499 ePortfolio
 
 ## Professional Self-Assessment  
-[Download Self_Assesment.docx](Self_Assesment.docx)
+[Download Self_Assesment.docx](Self_Assessment.docx)
 
 ## Code Review  
 [View Code Review](Code_Review.mp4)
