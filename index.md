@@ -4,7 +4,7 @@
 [Download Self_Assesment.docx](Self_Assessment.docx)
 
 ## Code Review  
-[View Code Review](Code_Review.mp4)
+[Watch Code Review on YouTube](https://youtu.be/3E1PIPKaXv4)
 
 ## Artifacts & Narratives
 
